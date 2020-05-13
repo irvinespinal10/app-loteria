@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-loteria/static/css/main.5f361e03.chunk.css",
+    "main.js": "/app-loteria/static/js/main.4571c09e.chunk.js",
+    "main.js.map": "/app-loteria/static/js/main.4571c09e.chunk.js.map",
+    "runtime-main.js": "/app-loteria/static/js/runtime-main.33a207d7.js",
+    "runtime-main.js.map": "/app-loteria/static/js/runtime-main.33a207d7.js.map",
+    "static/js/2.f75f716f.chunk.js": "/app-loteria/static/js/2.f75f716f.chunk.js",
+    "static/js/2.f75f716f.chunk.js.map": "/app-loteria/static/js/2.f75f716f.chunk.js.map",
+    "index.html": "/app-loteria/index.html",
+    "precache-manifest.d5e064d66ca9d0f0341a6e3a6596ddc1.js": "/app-loteria/precache-manifest.d5e064d66ca9d0f0341a6e3a6596ddc1.js",
+    "service-worker.js": "/app-loteria/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/app-loteria/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f75f716f.chunk.js.LICENSE.txt": "/app-loteria/static/js/2.f75f716f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/app-loteria/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a207d7.js",
+    "static/js/2.f75f716f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4571c09e.chunk.js"
+  ]
+}
