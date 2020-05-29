@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/app-loteria/static/css/main.5f361e03.chunk.css",
-    "main.js": "/app-loteria/static/js/main.77581e5b.chunk.js",
-    "main.js.map": "/app-loteria/static/js/main.77581e5b.chunk.js.map",
+    "main.js": "/app-loteria/static/js/main.9753d18b.chunk.js",
+    "main.js.map": "/app-loteria/static/js/main.9753d18b.chunk.js.map",
     "runtime-main.js": "/app-loteria/static/js/runtime-main.33a207d7.js",
     "runtime-main.js.map": "/app-loteria/static/js/runtime-main.33a207d7.js.map",
-    "static/js/2.c22f8797.chunk.js": "/app-loteria/static/js/2.c22f8797.chunk.js",
-    "static/js/2.c22f8797.chunk.js.map": "/app-loteria/static/js/2.c22f8797.chunk.js.map",
+    "static/js/2.18be8077.chunk.js": "/app-loteria/static/js/2.18be8077.chunk.js",
+    "static/js/2.18be8077.chunk.js.map": "/app-loteria/static/js/2.18be8077.chunk.js.map",
     "index.html": "/app-loteria/index.html",
-    "precache-manifest.d05853988d7ba2e6e0f7c0bd70613cc8.js": "/app-loteria/precache-manifest.d05853988d7ba2e6e0f7c0bd70613cc8.js",
+    "precache-manifest.b84ee385711f8e268a2e3ec118d9bc0f.js": "/app-loteria/precache-manifest.b84ee385711f8e268a2e3ec118d9bc0f.js",
     "service-worker.js": "/app-loteria/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/app-loteria/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c22f8797.chunk.js.LICENSE.txt": "/app-loteria/static/js/2.c22f8797.chunk.js.LICENSE.txt",
+    "static/js/2.18be8077.chunk.js.LICENSE.txt": "/app-loteria/static/js/2.18be8077.chunk.js.LICENSE.txt",
     "static/media/el-alacran.jpg": "/app-loteria/static/media/el-alacran.82e322cc.jpg",
     "static/media/el-apache.jpg": "/app-loteria/static/media/el-apache.90f7389d.jpg",
     "static/media/el-arbol.jpg": "/app-loteria/static/media/el-arbol.b02e4a80.jpg",
@@ -70,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.33a207d7.js",
-    "static/js/2.c22f8797.chunk.js",
+    "static/js/2.18be8077.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.77581e5b.chunk.js"
+    "static/js/main.9753d18b.chunk.js"
   ]
 }
