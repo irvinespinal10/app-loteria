@@ -46,7 +46,7 @@ class App extends Component {
     else { this.setState({ supported: false }); }
   }
 
-  componentDidMount() { if (this.state.supported) { this.startSpeak("Bienvenido al Juego de la Loteria!"); } }
+  componentDidMount() { if (this.state.supported) { this.startSpeak("Bienvenidos al Juego de la Loteria!"); } }
 
   startSpeak = (text) => {
     this._speech.text = text;
@@ -77,7 +77,7 @@ class App extends Component {
       let prevItems  = this.state.prevItems;
       let itemNumber = Math.floor(Math.random() * prevItems.length);
       let item       = prevItems[itemNumber];
-      if (prevItems.length > 50) { 
+      if (prevItems.length > 0) { 
         prevItems.splice(itemNumber,1); 
         this.startSpeak(item.name);
         this.setState({ item: item })                                                  
